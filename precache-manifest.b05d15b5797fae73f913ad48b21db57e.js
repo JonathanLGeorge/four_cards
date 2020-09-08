@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fcbeec11c70289bfb8e0455d27b20d21",
+    "revision": "5aca93761e9bb4fe39df34b31ab332b3",
     "url": "/four_cards/index.html"
   },
   {
-    "revision": "0ecafdbde47ebafe6cac",
-    "url": "/four_cards/static/css/main.584442a2.chunk.css"
+    "revision": "824a28369d0f60777df7",
+    "url": "/four_cards/static/css/main.0efdde8a.chunk.css"
   },
   {
     "revision": "732737c6cf4fca043aef",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/four_cards/static/js/2.71602eb4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0ecafdbde47ebafe6cac",
+    "revision": "824a28369d0f60777df7",
     "url": "/four_cards/static/js/main.bba8d030.chunk.js"
   },
   {
