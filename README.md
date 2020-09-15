@@ -1,3 +1,5 @@
+Make sure to add home to the end of the URL to get the flags. I had to change the routing path and Im still trying to solve a few issues. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
